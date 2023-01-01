@@ -1,0 +1,17 @@
+.banner{
+    height: 550px;
+    object-fit: contain;
+    width: 100%;
+}
+.banner_content{
+    padding-top: 300px;
+    margin-left: 100px;
+
+}
+.banner_title{
+    font-size: 40px;
+    font-family: fantasy;
+}
+.banner_desc{
+    line-height: 30px;
+}
